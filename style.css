@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+  
+ body{
+   font-family: 'Josefin Sans', sans-serif;
+   text-align: center;
+}
+
+.active{
+  color: #000000;
+}
+
+.temp{
+    height:auto;
+    clear:both;
+    font-weight:500;
+    font-size:1.75em;
+}
+.weather{
+    height:auto;
+    clear:both;
+    padding-top:20px;
+    font-size:1em; 
+    }
